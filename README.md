@@ -25,6 +25,6 @@ Here are some ideas to get you started:
     <a href="https://raphaelbernhart.at" target="_blank"><img width="30px" src="./globe.png"></a>
     <a href="https://raphaelbernhart.at" target="_blank"><img width="30px" src="./dribbble.png"></a>
     <a href="https://raphaelbernhart.at" target="_blank"><img width="30px" src="./unsplash.png"></a>
-    <p>To contact me: <a href="mailto:mail@raphaelbernhart.at"></a></p>
+    <p>To contact me: <a href="mailto:mail@raphaelbernhart.at">mail@raphaelbernhart.at</a></p>
   </body>
 </html>
