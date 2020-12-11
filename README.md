@@ -1,7 +1,5 @@
 <html>
   <body>
-    <!--<h1>Just another developer / filmmaker / webdesigner 🌙</h1>-->
-    <img width="100%" src="./header.jpg">
     <p>
       My name is <a href="https://raphaelbernhart.at" target="_blank">Raphael</a> and I'm just another Web-Dude with a passion for film. Nah forreal I love watching and especially creating videos. To hold balance in my life I'm also a really passionate skier🇦🇹. Even tho I'm totally a winter guy in the summertime there is no way around football(The real one ⚽).
     </p>
