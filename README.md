@@ -8,8 +8,8 @@
     </p>
     <br>
     <a href="https://raphaelbernhart.at" target="_blank"><img width="30px" src="./globe.png"></a>
-    <a href="https://dribbble.com/rapyh02" target="_blank"><img width="30px" src="./dribbble.png"></a>
-    <a href="https://unsplash.com/@raphy02" target="_blank"><img width="30px" src="./unsplash.png"></a>
+    <a href="https://dribbble.com/raphaelbernhart" target="_blank"><img width="30px" src="./dribbble.png"></a>
+    <a href="https://unsplash.com/@raphaelbernhart" target="_blank"><img width="30px" src="./unsplash.png"></a>
     <br>
     <p>To contact me: <a href="mailto:mail@raphaelbernhart.at">mail@raphaelbernhart.at</a></p>
   </body>
